@@ -1,0 +1,63 @@
+body {
+  background-image: url("background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+}
+
+.container {
+width: 1000px;
+margin: auto;
+margin-top: 25px;
+margin-bottom: 80px;
+padding: 85px;
+border-radius: 18px;
+background-color: rgba(0,0,0,.5);
+line-height: 1.8;
+font-family: Arial;
+font-size: 16px;
+}
+
+.logo {
+  width: 180px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slogan {
+  color: lime;
+  text-align: center;
+}
+
+.buttons-background {
+  background-color: lime;
+  padding: 6px;
+}
+
+.model {
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+.midcharge {
+  height: 27px;
+  width: 200px;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.fullcharge {
+  height: 27px;
+  width: 400px;
+  background-color: green;
+  border-radius: 5px;
+}
+
+.reserve {
+  height: 27px;
+  width: 100px;
+  background-color: red;
+  border-radius: 5px;
+}
